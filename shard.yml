@@ -1,4 +1,4 @@
-name: vistior-comments
+name: visitor-comments
 version: 0.1.0
 
 authors:
@@ -7,6 +7,14 @@ authors:
 targets:
   vistior-comments:
     main: src/vistior-comments.cr
+
+dependencies:
+  kemal:
+    git: https://github.com/kemalcr/kemal.git
+    commit: a8c0f09b858162bd13c96663febef5527b322a32
+
+  spec-kemal:
+    github: kemalcr/spec-kemal
 
 crystal: 0.35.0
 

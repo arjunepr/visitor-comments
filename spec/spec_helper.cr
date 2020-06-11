@@ -1,2 +1,5 @@
 require "spec"
-require "../src/vistior-comments"
+require "spec-kemal"
+require "../src/visitor-comments"
+# require "../src/vistior-comments"
+# require "../src/index"

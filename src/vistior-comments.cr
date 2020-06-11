@@ -1,4 +1,5 @@
-# TODO: Write documentation for `Vistior::Comments`
+# TODO: Write docu:mentation for `Vistior::Comments`
+
 module Vistior::Comments
   VERSION = "0.1.0"
 
