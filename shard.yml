@@ -1,0 +1,13 @@
+name: vistior-comments
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  vistior-comments:
+    main: src/vistior-comments.cr
+
+crystal: 0.35.0
+
+license: MIT
